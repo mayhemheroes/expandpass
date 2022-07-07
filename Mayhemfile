@@ -1,0 +1,10 @@
+project: steghide
+target: steghide
+
+duration: 60
+
+testsuite:
+  - file://seed.txt
+
+cmds:
+  - cmd: ./expandpass -i @@
