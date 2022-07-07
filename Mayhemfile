@@ -1,5 +1,5 @@
-project: steghide
-target: steghide
+project: expandpass
+target: expandpass
 
 duration: 60
 
