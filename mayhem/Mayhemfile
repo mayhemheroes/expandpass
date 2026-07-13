@@ -1,0 +1,9 @@
+project: expandpass
+target: expandpass
+
+cmds:
+  - cmd: /mayhem/build/expandpass -i @@
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/expandpass/testsuite

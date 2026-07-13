@@ -1,0 +1,9 @@
+#unique children percolate up
+{
+"A"
+<"B"{"C"<U1"U">}>
+}
+{
+"D"
+<"E"{"F"<U1"U">}>
+}

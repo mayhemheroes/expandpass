@@ -1,0 +1,20 @@
+#complicated, tiered unique tags
+{
+  "A"
+  (
+    <"B">
+    <U1"U">
+  )
+  <"C">
+  <U1"U">
+}
+{
+  (
+    "D"
+    {
+      <U1"U">
+      <"E">
+    }
+  )
+  <U1"U">
+}
